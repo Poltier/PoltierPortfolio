@@ -647,7 +647,7 @@ footer .redes-sociales .contenedor .instagram:hover {
 }
 
 .disppear {
-  animation: vanish 2s forwards;
+  animation: vanish 1s forwards;
 }
 
 @keyframes vanish {
