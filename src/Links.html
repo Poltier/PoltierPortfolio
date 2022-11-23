@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Links</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/x-icon" href="img/Favicon.ico" />
+    <script type="module" src="app.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <!-- PRELOADER -->
+    <div class="loader">
+      <img src="img/preloader.gif" alt="" />
+    </div>
+    <!-- HEADER -->
+    <header>
+      <div class="contenedor">
+        <nav class="menu">
+          <a href="/src/index.html">Home</a>
+          <a href="/src/Category.html">Category</a>
+          <a href="/src/Presentation.html">Presentation</a>
+          <a class="active" href="/src/Links.html">Links</a>
+        </nav>
+        <div class="contenedor-texto">
+          <div class="texto">
+            <h1 class="nombre">Links</h1>
+            <h2 class="profesion">Learn how it is done</h2>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="main">
+      <!-- indice -->
+      <section class="list">
+        <div class="contenedor">
+          <h2>Content</h2>
+          <p>
+            Esta parte la explicaré en Español, ya que será mucho más cómodo de entender. La idea es
+            documentar las fuentes de las que he sacado el contenido y atribuciones de los derechos.
+          </p>
+          <ol class="list">
+            <li><a href="#point1">Fotografías y elementos multimedia</a></li>
+            <li><a href="#point2">Home</a></li>
+            <li><a href="point3">Category</a></li>
+            <li><a href="point4">How we meet</a></li>
+          </ol>
+        </div>
+      </section>
+      <section class="articles">
+        <div class="contenedor">
+          <h3 id="point1">Fotografías y elementos multimedia</h3>
+          <div class="thumb">
+            <figure>
+              <img src="img/how we meet/fake unicorn.jpg" alt="Fake unicorn" style="width: 100%" />
+              <figcaption>
+                Fake Unicorn
+                <a
+                  href="https://www.nakedcapitalism.com/2017/08/fake-unicorns-study-finds-average-49-valuation-overstatement-over-half-lose-unicorn-status-when-corrected.html"
+                  >Font</a
+                >
+              </figcaption>
+            </figure>
+          </div>
+          <p>Principalmente <b>las imagenes</b> han sido extraidas de estas tres fuentes:</p>
+          <li>
+            <a href="https://pixabay.com/">Pixabay</a>
+          </li>
+          <li>
+            <a href="https://www.pexels.com/es-es/">Pexels</a>
+          </li>
+          <li>
+            <a href="https://unsplash.com/es">Unsplash</a>
+          </li>
+          <p>
+            Desde estas fuentes se pueden extrar las imagenes y utilizarlas libremente siempre que
+            se mencione la atribución.
+          </p>
+          <p>
+            Otras fuentes de donde se han sacado las imagenes ha sido este interesante gráfico de
+            loop11 que te enseña como montar la estructura de una web.
+          </p>
+          <div class="thumb">
+            <figure>
+              <img src="img/page struction.jpg" alt="Website structure" style="width: 100%" />
+              <figcaption>
+                How to Plan A Website Structure: Complete Guide
+                <a href="https://www.loop11.com/how-to-plan-a-website-structure-complete-guide/"
+                  >Font</a
+                >
+              </figcaption>
+            </figure>
+          </div>
+          <p>
+            Para los <b>videos</b>, al ser un iframe y reproducirse en la propia plataforma de
+            Youtube, no hay problemas de atribución ya que se visualiza directamente el video de la
+            persona que lo ha subido a internet
+          </p>
+          <h3 id="point2">Home</h3>
+          <p>
+            En el apartado home lo he creado en base como sería la página principal de un Portfolio:
+            Explicar quien soy, explicar mis trabajos y un formulario de contacto.
+          </p>
+          <p>
+            Además, he creado un pequeño script de "preload" para que aparezca mientras carga la
+            página. Al no tenemo mucho conocimiento, esto lo he hecho gracias al siguiente tutorial:
+          </p>
+          <div class="video">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/s_hO8Pn3u5M"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <p>
+            Aparte de esto, solo destacar que el diseño es adaptable mediante mediaqueries, como los
+            trabajos que se adaptan según el dispositivo
+          </p>
+          <h3 id="point3">Category</h3>
+          <p>
+            En este apartado de Category he reutilizado el grid del Home y le he añadido un botón de
+            contacto como para contactar con el equipo.
+          </p>
+          <p>
+            A parte de esto, he creado una linea del tiempo explicando el supuesto desarrollo del
+            proyecto desde los inicios. Para ello he seguido
+            <a href="https://www.w3schools.com/howto/howto_css_timeline.asp">este tutorial</a> de
+            w3schools.
+          </p>
+          <h3 id="point4">How we meet</h3>
+          <div class="thumb">
+            <figure>
+              <img src="img/how we meet/bag-and-hands.avif" alt="How we meet" style="width: 100%" />
+              <figcaption>
+                Like we meet
+                <a href="https://unsplash.com/es/fotos/BbQLHCpVUqA">Font</a>
+              </figcaption>
+            </figure>
+          </div>
+          <p>
+            Para este apartado he creado un indice de contenido mediante listas y he añadido un id
+            para que al hacer clic te lleve al apartado en concreto.
+          </p>
+          <p>
+            En el segundo apartado he inscrustado un video de youtube, y en el tercero he querido
+            añadir una tabla siguiendo
+            <a
+              href="https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/"
+              >este tutorial</a
+            >.
+          </p>
+        </div>
+      </section>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      <!-- REDES SOCIALES -->
+      <section class="redes-sociales">
+        <div class="contenedor">
+          <a class="twitter" href="https://twitter.com/Poltr96" target="_blank"
+            ><i class="fa fa-twitter"></i
+          ></a>
+          <a class="youtube" href="https://www.youtube.com/@Poltier1" target="_blank"
+            ><i class="fa fa-youtube-play"></i
+          ></a>
+          <a class="github" href="https://github.com/Poltier" target="_blank"
+            ><i class="fa fa-github"></i
+          ></a>
+          <a class="instagram" href="https://www.instagram.com/polito396" target="_blank"
+            ><i class="fa fa-instagram"></i
+          ></a>
+        </div>
+      </section>
+    </footer>
+  </body>
+</html>
