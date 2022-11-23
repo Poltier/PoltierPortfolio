@@ -680,7 +680,7 @@ footer .redes-sociales .contenedor .instagram:hover {
 }
 
 .disppear {
-  animation: 2s forwards vanish;
+  animation: 1s forwards vanish;
 }
 
 @keyframes vanish {
