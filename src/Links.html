@@ -26,12 +26,17 @@
     <!-- HEADER -->
     <header>
       <div class="contenedor">
-        <nav class="menu">
-          <a href="/src/index.html">Home</a>
-          <a href="/src/Category.html">Category</a>
-          <a href="/src/Presentation.html">Presentation</a>
-          <a class="active" href="/src/Links.html">Links</a>
-        </nav>
+        <div class="headermenu">
+          <div class="logo">
+            <a href="index.html"><img src="img/logo.png" alt="logo of my website" /></a>
+          </div>
+          <nav class="menu">
+            <a href="index.html">Home</a>
+            <a href="Category.html">Category</a>
+            <a href="Presentation.html">Presentation</a>
+            <a class="active" href="Links.html">Links</a>
+          </nav>
+        </div>
         <div class="contenedor-texto">
           <div class="texto">
             <h1 class="nombre">Links</h1>
@@ -74,15 +79,17 @@
             </figure>
           </div>
           <p>Principalmente <b>las imagenes</b> han sido extraidas de estas tres fuentes:</p>
-          <li>
-            <a href="https://pixabay.com/">Pixabay</a>
-          </li>
-          <li>
-            <a href="https://www.pexels.com/es-es/">Pexels</a>
-          </li>
-          <li>
-            <a href="https://unsplash.com/es">Unsplash</a>
-          </li>
+          <ol>
+            <li>
+              <a href="https://pixabay.com/">Pixabay</a>
+            </li>
+            <li>
+              <a href="https://www.pexels.com/es-es/">Pexels</a>
+            </li>
+            <li>
+              <a href="https://unsplash.com/es">Unsplash</a>
+            </li>
+          </ol>
           <p>
             Desde estas fuentes se pueden extrar las imagenes y utilizarlas libremente siempre que
             se mencione la atribución.
@@ -122,7 +129,6 @@
               height="315"
               src="https://www.youtube.com/embed/s_hO8Pn3u5M"
               title="YouTube video player"
-              frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
             ></iframe>

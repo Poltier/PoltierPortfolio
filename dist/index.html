@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,12 +19,19 @@
     <!-- HEADER -->
     <header>
       <div class="contenedor">
-        <nav class="menu">
-          <a class="active" href="/Category.html">Home</a>
-          <a href="/Category.html">Category</a>
-          <a href="/Presentation.html">Presentation</a>
-          <a href="/Links.html">Links</a>
-        </nav>
+        <div class="headermenu">
+          <div class="logo">
+            <a href="/index.html"><img src="/logo.726d37a8.png" alt="logo of my website"></a>
+          </div>
+          <div class="menulist">
+            <nav class="menu">
+              <a class="active" href="/index.html">Home</a>
+              <a href="/Category.html">Category</a>
+              <a href="/Presentation.html">Presentation</a>
+              <a href="/Links.html">Links</a>
+            </nav>
+          </div>
+        </div>
         <div class="contenedor-texto">
           <div class="texto">
             <h1 class="nombre">Poltier</h1>
@@ -59,7 +66,7 @@
           <div class="contenedor-trabajos">
             <div class="trabajo">
               <div class="thumb">
-                <a href=""><img src="/SRunners.d27da965.jpg" alt="SRunners Escape Team"></a>
+                <a href=""><img src="/SRunners.d41b9aa8.jpeg" alt="SRunners Escape Team"></a>
               </div>
               <div class="descripcion">
                 <p class="nombre"><a href="">SRunners</a></p>
@@ -77,7 +84,7 @@
             </div>
             <div class="trabajo">
               <div class="thumb">
-                <a href=""><img src="/un%20viaje%20inesperado.10812905.jpg" alt="Escape Room un viaje inesperado"></a>
+                <a href=""><img src="/un%20viaje%20inesperado.c2ca8788.jpeg" alt="Escape Room un viaje inesperado"></a>
               </div>
               <div class="descripcion">
                 <p class="nombre"><a href="">Un Viaje Inesperado</a></p>
@@ -86,7 +93,7 @@
             </div>
             <div class="trabajo">
               <div class="thumb">
-                <a href=""><img src="/harry%20potter.58f08b78.jpg" alt="Harry Potter Escape Game"></a>
+                <a href=""><img src="/harry%20potter.cf5b6ebf.jpeg" alt="Harry Potter Escape Game"></a>
               </div>
               <div class="descripcion">
                 <p class="nombre"><a href="">Harry Potter</a></p>
@@ -96,31 +103,46 @@
           </div>
         </div>
       </section>
+      <!-- CONTACTO -->
+      <section class="contacto">
+        <div class="contenedor">
+          <!-- CONTACTO -->
+          <div class="contacto">
+            <h3 class="titulo">Contact me</h3>
+            <form class="formulario" action="">
+              <input type="text" placeholder="Name" name="nombre" required="">
+              <input type="email" placeholder="Email" name="correo" required="">
+              <textarea name="mensaje" placeholder="Message:"></textarea>
+              <input class="boton" type="submit" value="Send">
+            </form>
+          </div>
+        </div>
+      </section>
     </section>
 
     <!-- FOOTER -->
     <footer>
       <div class="contenedor">
-        <!-- CONTACTO -->
-        <section class="contacto">
-          <h3 class="titulo">Contact me</h3>
-          <form class="formulario" action="">
-            <input type="text" placeholder="Name" name="nombre" required="">
-            <input type="email" placeholder="Email" name="correo" required="">
-            <textarea name="mensaje" placeholder="Message:"></textarea>
-            <input class="boton" type="submit" value="Send">
-          </form>
-        </section>
-      </div>
-      <!-- REDES SOCIALES -->
-      <section class="redes-sociales">
-        <div class="contenedor">
+        <!-- ENLACES Y LOGO -->
+        <div class="footermenu">
+          <div class="footer-logo">
+            <img src="/logo.726d37a8.png" alt="logo of my website">
+          </div>
+          <nav class="footer-menu">
+            <a href="/index.html">Home</a>
+            <a href="/Category.html">Category</a>
+            <a href="/Presentation.html">Presentation</a>
+            <a href="/Links.html">Links</a>
+          </nav>
+        </div>
+        <!-- REDES SOCIALES -->
+        <div class="redes">
           <a class="twitter" href="https://twitter.com/Poltr96" target="_blank"><i class="fa fa-twitter"></i></a>
           <a class="youtube" href="https://www.youtube.com/@Poltier1" target="_blank"><i class="fa fa-youtube-play"></i></a>
           <a class="github" href="https://github.com/Poltier" target="_blank"><i class="fa fa-github"></i></a>
           <a class="instagram" href="https://www.instagram.com/polito396" target="_blank"><i class="fa fa-instagram"></i></a>
         </div>
-      </section>
+      </div>
     </footer>
   </body>
 </html>

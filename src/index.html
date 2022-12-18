@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -26,12 +26,19 @@
     <!-- HEADER -->
     <header>
       <div class="contenedor">
-        <nav class="menu">
-          <a class="active" href="/src/Category.html">Home</a>
-          <a href="/src/Category.html">Category</a>
-          <a href="/src/Presentation.html">Presentation</a>
-          <a href="/src/Links.html">Links</a>
-        </nav>
+        <div class="headermenu">
+          <div class="logo">
+            <a href="index.html"><img src="img/logo.png" alt="logo of my website" /></a>
+          </div>
+          <div class="menulist">
+            <nav class="menu">
+              <a class="active" href="index.html">Home</a>
+              <a href="Category.html">Category</a>
+              <a href="Presentation.html">Presentation</a>
+              <a href="Links.html">Links</a>
+            </nav>
+          </div>
+        </div>
         <div class="contenedor-texto">
           <div class="texto">
             <h1 class="nombre">Poltier</h1>
@@ -109,25 +116,40 @@
           </div>
         </div>
       </section>
+      <!-- CONTACTO -->
+      <section class="contacto">
+        <div class="contenedor">
+          <!-- CONTACTO -->
+          <div class="contacto">
+            <h3 class="titulo">Contact me</h3>
+            <form class="formulario" action="">
+              <input type="text" placeholder="Name" name="nombre" required />
+              <input type="email" placeholder="Email" name="correo" required />
+              <textarea name="mensaje" placeholder="Message:"></textarea>
+              <input class="boton" type="submit" value="Send" />
+            </form>
+          </div>
+        </div>
+      </section>
     </section>
 
     <!-- FOOTER -->
     <footer>
       <div class="contenedor">
-        <!-- CONTACTO -->
-        <section class="contacto">
-          <h3 class="titulo">Contact me</h3>
-          <form class="formulario" action="">
-            <input type="text" placeholder="Name" name="nombre" required />
-            <input type="email" placeholder="Email" name="correo" required />
-            <textarea name="mensaje" placeholder="Message:"></textarea>
-            <input class="boton" type="submit" value="Send" />
-          </form>
-        </section>
-      </div>
-      <!-- REDES SOCIALES -->
-      <section class="redes-sociales">
-        <div class="contenedor">
+        <!-- ENLACES Y LOGO -->
+        <div class="footermenu">
+          <div class="footer-logo">
+            <img src="img/logo.png" alt="logo of my website" />
+          </div>
+          <nav class="footer-menu">
+            <a href="index.html">Home</a>
+            <a href="Category.html">Category</a>
+            <a href="Presentation.html">Presentation</a>
+            <a href="Links.html">Links</a>
+          </nav>
+        </div>
+        <!-- REDES SOCIALES -->
+        <div class="redes">
           <a class="twitter" href="https://twitter.com/Poltr96" target="_blank"
             ><i class="fa fa-twitter"></i
           ></a>
@@ -141,7 +163,7 @@
             ><i class="fa fa-instagram"></i
           ></a>
         </div>
-      </section>
+      </div>
     </footer>
   </body>
 </html>
