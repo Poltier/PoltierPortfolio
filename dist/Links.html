@@ -41,35 +41,30 @@
 
     <section class="main">
       <!-- indice -->
-      <section class="list">
+      <div class="presentation">
         <div class="contenedor">
-          <h2>Content</h2>
+          <h2 class="titulo">Content</h2>
           <p>
             Esta parte la explicaré en Español, ya que será mucho más cómodo de entender. La idea es
             documentar las fuentes de las que he sacado el contenido y atribuciones de los derechos.
           </p>
           <ol class="list">
             <li><a href="#point1">Fotografías y elementos multimedia</a></li>
-            <li><a href="#point2">Home</a></li>
-            <li><a href="point3">Category</a></li>
-            <li><a href="point4">How we meet</a></li>
+            <li><a href="#point2">Clip-path</a></li>
+            <li><a href="point3">Fortmatos de imagen</a></li>
           </ol>
-        </div>
-      </section>
-      <section class="articles">
-        <div class="contenedor">
-          <h3 id="point1">Fotografías y elementos multimedia</h3>
+          <h3 class="titulo" id="point1">Fotografías y elementos multimedia</h3>
           <div class="thumb">
             <figure>
-              <img src="/fake%20unicorn.9a4b9501.jpeg" alt="Fake unicorn" style="width: 100%">
+              <img src="/unicorn.31af30a1.png" alt="unicorn Dab" style="width: 50%">
               <figcaption>
-                Fake Unicorn
-                <a href="https://www.nakedcapitalism.com/2017/08/fake-unicorns-study-finds-average-49-valuation-overstatement-over-half-lose-unicorn-status-when-corrected.html">Font</a>
+                Unicorn Dab
+                <a href="https://www.freepng.es/png-0trzql/">Font</a>
               </figcaption>
             </figure>
           </div>
-          <p>Principalmente <b>las imagenes</b> han sido extraidas de estas tres fuentes:</p>
-          <ol>
+          <p>Principalmente <b>las imagenes</b> han sido extraidas de estas cuatro fuentes:</p>
+          <ol class="list">
             <li>
               <a href="https://pixabay.com/">Pixabay</a>
             </li>
@@ -79,77 +74,64 @@
             <li>
               <a href="https://unsplash.com/es">Unsplash</a>
             </li>
+            <li>
+              <a href="https://www.freepng.es/">Freepng</a>
+            </li>
           </ol>
           <p>
             Desde estas fuentes se pueden extrar las imagenes y utilizarlas libremente siempre que
             se mencione la atribución.
           </p>
+          <h3 id="point2" class="titulo">Clip-path</h3>
           <p>
-            Otras fuentes de donde se han sacado las imagenes ha sido este interesante gráfico de
-            loop11 que te enseña como montar la estructura de una web.
+            Para el efecto creado en el Home sobre mis fotografías de las naturaleza, se ha
+            utililizado la herramienta Clip-path:
           </p>
-          <div class="thumb">
-            <figure>
-              <img src="/page%20struction.77b72f63.jpeg" alt="Website structure" style="width: 100%">
-              <figcaption>
-                How to Plan A Website Structure: Complete Guide
-                <a href="https://www.loop11.com/how-to-plan-a-website-structure-complete-guide/">Font</a>
-              </figcaption>
-            </figure>
-          </div>
+          <blockquote>
+            La herramienta clip-path es una propiedad de CSS que se utiliza para recortar elementos
+            de una página web. Permite definir una máscara o patrón de recorte, que se aplica a un
+            elemento y le permite mostrar solo la parte que se encuentra dentro del patrón. La
+            herramienta clip-path es muy útil para crear efectos visuales interesantes y
+            personalizar la forma en la que se muestran los elementos en una página web. Por
+            ejemplo, se puede usar para crear formas irregulares, cortar imágenes en formas
+            específicas o crear transiciones suaves al cambiar el patrón de recorte.
+          </blockquote>
           <p>
-            Para los <b>videos</b>, al ser un iframe y reproducirse en la propia plataforma de
-            Youtube, no hay problemas de atribución ya que se visualiza directamente el video de la
-            persona que lo ha subido a internet
+            En este caso, como recurso he utilizado el ejemplo gratuito
+            <a href="https://codepen.io/yoksel/pen/PooVvwZ">del siguiente enlace.</a>
           </p>
-          <h3 id="point2">Home</h3>
-          <p>
-            En el apartado home lo he creado en base como sería la página principal de un Portfolio:
-            Explicar quien soy, explicar mis trabajos y un formulario de contacto.
-          </p>
-          <p>
-            Además, he creado un pequeño script de "preload" para que aparezca mientras carga la
-            página. Al no tenemo mucho conocimiento, esto lo he hecho gracias al siguiente tutorial:
-          </p>
-          <div class="video">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/s_hO8Pn3u5M" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-          </div>
-          <p>
-            Aparte de esto, solo destacar que el diseño es adaptable mediante mediaqueries, como los
-            trabajos que se adaptan según el dispositivo
-          </p>
-          <h3 id="point3">Category</h3>
-          <p>
-            En este apartado de Category he reutilizado el grid del Home y le he añadido un botón de
-            contacto como para contactar con el equipo.
-          </p>
-          <p>
-            A parte de esto, he creado una linea del tiempo explicando el supuesto desarrollo del
-            proyecto desde los inicios. Para ello he seguido
-            <a href="https://www.w3schools.com/howto/howto_css_timeline.asp">este tutorial</a> de
-            w3schools.
-          </p>
-          <h3 id="point4">How we meet</h3>
-          <div class="thumb">
-            <figure>
-              <img src="/bag-and-hands.84a3127a.avif" alt="How we meet" style="width: 100%">
-              <figcaption>
-                Like we meet
-                <a href="https://unsplash.com/es/fotos/BbQLHCpVUqA">Font</a>
-              </figcaption>
-            </figure>
-          </div>
-          <p>
-            Para este apartado he creado un indice de contenido mediante listas y he añadido un id
-            para que al hacer clic te lleve al apartado en concreto.
-          </p>
-          <p>
-            En el segundo apartado he inscrustado un video de youtube, y en el tercero he querido
-            añadir una tabla siguiendo
-            <a href="https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/">este tutorial</a>.
-          </p>
+          <h3 id="point3" class="titulo">Formatos de imagen</h3>
+          <p>Para el desarollo de esta práctica he utilizado los siguientes formatos:</p>
+          <ol class="list">
+            <li>
+              <p>
+                AVIF es un formato de imagen que se basa en el estándar AV1 y se utiliza para
+                comprimir imágenes de alta calidad con un tamaño de archivo reducido. Es un formato
+                relativamente nuevo y se está volviendo cada vez más popular debido a su alta
+                eficiencia de compresión y rendimiento en dispositivos móviles.
+              </p>
+            </li>
+            <li>
+              <p>
+                JPEG es un formato de imagen que se utiliza a menudo para imágenes con colores y
+                tonos degradados. Utiliza una técnica de compresión con pérdida, lo que significa
+                que algunos detalles se pierden durante la compresión. Aunque el tamaño de archivo
+                de las imágenes JPEG suele ser más pequeño que el de las imágenes sin comprimir, la
+                calidad de la imagen puede verse afectada.
+              </p>
+            </li>
+            <li>
+              <p>
+                PNG es un formato de imagen que se utiliza a menudo para imágenes con transparencias
+                y detalles precisos. Utiliza una técnica de compresión sin pérdida, lo que significa
+                que no se pierden detalles durante la compresión. Esto hace que el tamaño de archivo
+                de las imágenes PNG sea generalmente más grande que el de las imágenes JPEG, pero la
+                calidad de la imagen se mantiene mejor.
+              </p>
+            </li>
+          </ol>
         </div>
-      </section>
+      </div>
     </section>
 
     <!-- FOOTER -->

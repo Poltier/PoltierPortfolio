@@ -24,7 +24,7 @@ iframe {
 .titulo {
   color: #dd820d;
   text-align: center;
-  margin-bottom: 40px;
+  padding: 30px 0;
   font-size: 34px;
   font-weight: 300;
   line-height: 34px;
@@ -59,7 +59,7 @@ header .menu {
 header .menu a {
   color: #fff;
   border-bottom: 2px solid #0000;
-  margin: 0 10px;
+  margin: 0 5px;
   padding-bottom: 9px;
   font-size: 1em;
   text-decoration: none;
@@ -179,6 +179,7 @@ header .contenedor .active {
 .main .trabajos .contenedor-trabajos .trabajo .thumb img {
   vertical-align: top;
   width: 100%;
+  height: 200px;
   opacity: 1;
   border-radius: 3px;
   transition: opacity .3s;
@@ -272,7 +273,15 @@ header .contenedor .active {
 .main .my-team .contenedor-team .team .thumb img {
   vertical-align: top;
   width: 100%;
+  height: 300px;
   border-radius: 3px;
+}
+
+.thumb {
+  width: 100%;
+  justify-content: center;
+  margin-bottom: 30px;
+  display: flex;
 }
 
 .main .my-team .contenedor-team .team .descripcion {
@@ -450,9 +459,14 @@ header .contenedor .active {
 
 .columna-izquierda {
   width: 50%;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   display: flex;
+}
+
+.columna-izquierda p {
+  padding: 40px;
 }
 
 .columna-derecha {
@@ -463,144 +477,65 @@ header .contenedor .active {
   display: flex;
 }
 
+.columna-derecha p {
+  padding: 40px;
+}
+
 .columna-izquierda img {
   width: 100%;
   height: auto;
 }
 
-.main .list {
-  background: #fff;
+.columna-derecha img {
+  width: 45%;
+  height: auto;
 }
 
-.main .list h2 {
-  color: #dd820d;
-  text-align: left;
-  padding-bottom: 30px;
-  font-size: 34px;
-  font-weight: 300;
-  line-height: 34px;
+.columna-derecha .backpng {
+  width: 100%;
+  background-image: url("cloudy background.d9da559c.jpeg");
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
-.main .list ol {
+.list {
+  margin-bottom: 30px;
   margin-left: 20px;
 }
 
-.main .articles li {
+.articles li {
   margin-bottom: 30px;
 }
 
-.main .list a {
+.list a {
   color: #dd820d;
 }
 
-.main .articles {
+.video {
+  width: 100%;
+  height: 500px;
+  background-color: #212123;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.presentation {
   background: #fff;
   padding-bottom: 30px;
 }
 
-.main .articles h3 {
-  color: #dd820d;
-  text-align: left;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  font-size: 28px;
-  font-weight: 300;
-  line-height: 34px;
-}
-
-.main .articles a {
-  color: #dd820d;
-  text-decoration: none;
-}
-
-.main .articles p {
-  margin-bottom: 30px;
-}
-
-.main .articles .thumb {
-  width: 100%;
-  justify-content: center;
-  margin-bottom: 30px;
-  display: flex;
-}
-
-.main .articles .thumb img {
-  width: 50%;
-  border-radius: 3px;
-}
-
-.main .articles .video, .main .articles .table {
-  justify-content: center;
-  margin-bottom: 30px;
-  display: flex;
-}
-
-td, th {
-  border: 1px solid #999;
-  padding: 20px;
-}
-
-th {
-  color: #fff;
-  background: #dd820d;
-  border-radius: 0;
-  padding: 10px;
-  position: sticky;
-  top: 0;
-}
-
-.primary {
-  background-color: #000;
-}
-
-tfoot > tr {
-  color: #fff;
-  background: #000;
-}
-
-tbody > tr:hover {
-  background-color: #ffc107b6;
-}
-
-.main .presentation {
-  background: #fff;
+.presentation p {
   padding-bottom: 30px;
 }
 
-.main .presentation p {
-  padding-bottom: 30px;
-}
-
-.main .presentation h3 {
-  color: #dd820d;
-  text-align: left;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  font-size: 28px;
-  font-weight: 300;
-  line-height: 34px;
-}
-
-.main .presentation .thumb {
-  width: 100%;
+.svgbar {
   justify-content: center;
-  margin-bottom: 30px;
+  align-items: center;
+  padding: 40px 0;
   display: flex;
-}
-
-.main .presentation .thumb img {
-  width: 50%;
-  border-radius: 3px;
-}
-
-.main .presentation .video {
-  justify-content: center;
-  margin-bottom: 30px;
-  display: flex;
-}
-
-figcaption {
-  text-align: center;
 }
 
 .contacto {
@@ -819,6 +754,23 @@ footer .footer-menu a:hover {
   }
 }
 
+figcaption {
+  text-align: center;
+}
+
+blockquote {
+  background-color: #eaeaea;
+  margin-bottom: 30px;
+  padding: 30px;
+}
+
+figure {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
 .loader {
   height: 100%;
   width: 100%;
@@ -895,6 +847,46 @@ footer .footer-menu a:hover {
   perspective: 1000px;
   animation: 10s cubic-bezier(.36, .07, .19, .97) infinite alternate both shake;
   transform: translate3d(0, 0, 0);
+}
+
+rect {
+  animation: 30s linear infinite gradient;
+}
+
+@keyframes gradient {
+  0% {
+    fill: #3498db;
+  }
+
+  25% {
+    fill: #f1c40f;
+  }
+
+  50% {
+    fill: #9b59b6;
+  }
+
+  75% {
+    fill: #2ecc71;
+  }
+
+  100% {
+    fill: #3498db;
+  }
+}
+
+.bar {
+  animation: 3s linear infinite move;
+}
+
+@keyframes move {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(100%);
+  }
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
