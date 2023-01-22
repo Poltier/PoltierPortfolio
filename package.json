@@ -20,6 +20,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
-    "sharp": "^0.31.2"
+    "sharp": "^0.31.2",
+    "youtube-lazyload": "^1.1.1"
   }
 }
