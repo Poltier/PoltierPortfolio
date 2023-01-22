@@ -7,7 +7,7 @@
     <title>Links</title>
     <link rel="stylesheet" href="styles.css" />
     <link rel="icon" type="image/x-icon" href="img/Favicon.ico" />
-    <script type="module" src="app.js"></script>
+    <script type="module" src="app.js" async></script>
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700"
       rel="stylesheet"
@@ -63,7 +63,12 @@
           <h3 class="titulo" id="point1">Fotografías y elementos multimedia</h3>
           <div class="thumb">
             <figure>
-              <img src="img/how we meet/unicorn.png" alt="unicorn Dab" style="width: 50%" />
+              <img
+                src="img/how we meet/unicorn.png"
+                loading="lazy"
+                alt="unicorn Dab"
+                style="width: 50%"
+              />
               <figcaption>
                 Unicorn Dab
                 <a href="https://www.freepng.es/png-0trzql/">Font</a>
@@ -147,7 +152,7 @@
         <!-- ENLACES Y LOGO -->
         <div class="footermenu">
           <div class="footer-logo">
-            <img src="img/logo.png" alt="logo of my website" />
+            <img src="img/logo.png" loading="lazy" alt="logo of my website" />
           </div>
           <nav class="footer-menu">
             <a href="index.html">Home</a>
