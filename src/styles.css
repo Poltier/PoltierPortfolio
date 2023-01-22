@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Light.ttf') format('ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Light.ttf') format('ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('fonts/OpenSans-Light.ttf') format('ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +29,7 @@
 
 body {
   background: #fff;
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', Arial, sans-serif;
   font-size: 16px;
 }
 
@@ -34,7 +55,7 @@ iframe {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url('img/backgroundheader.jpg'), #212123;
+  background: url('img/backgroundheader.avif'), #212123;
   background-position: center;
   max-height: 600px;
 }
@@ -321,7 +342,7 @@ header .contenedor .active {
 
 .knowus {
   padding: 40px 0;
-  background-image: url('img/howwemeet.jpg');
+  background-image: url('img/howwemeet.avif');
   background-color: #cccccc;
   height: 1000px;
   background-position: center;
@@ -472,7 +493,7 @@ header .contenedor .active {
 }
 
 .columna-derecha .backpng {
-  background-image: url('img/how we meet/cloudy background.jpg');
+  background-image: url('img/how we meet/cloudy background.avif');
   background-size: cover;
   width: 100%;
   display: flex;
@@ -538,7 +559,7 @@ header .contenedor .active {
 .contacto .formulario input[type='text'],
 .contacto .formulario input[type='email'],
 .contacto .formulario textarea {
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', Arial, sans-serif;
   border: 2px solid #cecece;
   border-radius: 5px;
   padding: 15px 20px;

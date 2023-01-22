@@ -1,37 +1,42 @@
-8691
+8729
 34/root/PoltierPortfolio/.prettierrc1668634860494291000 0
-48/root/PoltierPortfolio/dist/image4.00e25ca9.jpeg1671815430984297500 0
-45/root/PoltierPortfolio/dist/Presentation.html1671815430964297500 0
-59/root/PoltierPortfolio/dist/cloudy background.d9da559c.jpeg1671815430914297500 0
-61/root/PoltierPortfolio/dist/un viaje inesperado.c2ca8788.jpeg1671815430954297500 0
+48/root/PoltierPortfolio/dist/image4.00e25ca9.jpeg1671817200084297500 0
+59/root/PoltierPortfolio/dist/cloudy background.01db59b9.avif1674405727246921200 0
+48/root/PoltierPortfolio/dist/image2.6ad75c15.avif1674405787366921200 0
+45/root/PoltierPortfolio/dist/Presentation.html1674405838766921200 0
+59/root/PoltierPortfolio/dist/cloudy background.d9da559c.jpeg1671817199944297500 0
+56/root/PoltierPortfolio/dist/Poltier profile.4e2cd932.png1674405727356921200 0
+61/root/PoltierPortfolio/dist/un viaje inesperado.c2ca8788.jpeg1671817200024297500 0
 48/root/PoltierPortfolio/dist/image7.cf3f397f.jpeg1671645236517949300 0
-50/root/PoltierPortfolio/dist/index.4d663569.css.map1671816035564297500 0
-50/root/PoltierPortfolio/dist/SRunners.d41b9aa8.jpeg1671815430804297500 0
+50/root/PoltierPortfolio/dist/index.4d663569.css.map1674405940626921200 0
+48/root/PoltierPortfolio/dist/image1.78eb02c1.avif1674405787396921200 0
+50/root/PoltierPortfolio/dist/SRunners.d41b9aa8.jpeg1671817199974297500 0
+55/root/PoltierPortfolio/dist/OpenSans-Light.daede0bc.ttf1674405787396921200 0
 48/root/PoltierPortfolio/dist/image9.6e4c6bcb.jpeg1671645236387949300 0
-48/root/PoltierPortfolio/dist/wilson.2a3550ff.jpeg1671815430914297500 0
-49/root/PoltierPortfolio/dist/unicorn.4b51353a.jpeg1671815430964297500 0
-48/root/PoltierPortfolio/dist/image3.7dcf2c97.jpeg1671815430914297500 0
+48/root/PoltierPortfolio/dist/wilson.2a3550ff.jpeg1671817199944297500 0
+61/root/PoltierPortfolio/dist/un-viaje-inesperado.8aa855a5.avif1674405727336921200 0
+45/root/PoltierPortfolio/dist/index.f3d6d23e.js1674405727736921200 0
+49/root/PoltierPortfolio/dist/unicorn.4b51353a.jpeg1671817200014297500 0
+48/root/PoltierPortfolio/dist/image2.b2918553.avif1674405727346921200 0
+48/root/PoltierPortfolio/dist/image3.7dcf2c97.jpeg1671817200044297500 0
+49/root/PoltierPortfolio/dist/unicorn.d882f4f8.avif1674405727336921200 0
+48/root/PoltierPortfolio/dist/wilson.2c5cd104.avif1674405727246921200 0
 40/root/PoltierPortfolio/sharp.config.json1671392717555111100 0
 50/root/PoltierPortfolio/src/img/Poltier profile.png1581539634432126500 0
-49/root/PoltierPortfolio/src/img/my-team/wilson.jpg1668982873450546600 0
-44/root/PoltierPortfolio/src/img/howwemeet.jpg1671658299767949300 0
-49/root/PoltierPortfolio/src/img/page struction.jpg1669066771826353400 0
-63/root/PoltierPortfolio/src/img/trabajos/un viaje inesperado.jpg1668880284356320600 0
-56/root/PoltierPortfolio/src/img/trabajos/harry potter.jpg1459894706000000000 0
-52/root/PoltierPortfolio/src/img/trabajos/SRunners.jpg1668713249413326200 0
-39/root/PoltierPortfolio/src/img/trabajos1668880321876320600 1
-64/root/PoltierPortfolio/src/img/how we meet/cloudy background.jpg1671738101128360400 0
-42/root/PoltierPortfolio/src/img/how we meet1671814200744297500 1
-51/root/PoltierPortfolio/src/img/backgroundheader.jpg1668712651813326200 0
-30/root/PoltierPortfolio/src/img1671658547907949300 1
-37/root/PoltierPortfolio/src/index.html1671648067187949300 0
+51/root/PoltierPortfolio/src/img/my-team/unicorn.avif1674404009302244200 0
+57/root/PoltierPortfolio/src/img/trabajos/harry-potter.avif1674403989640092500 0
+39/root/PoltierPortfolio/src/img/trabajos1674404443736921200 1
+42/root/PoltierPortfolio/src/img/how we meet1674404437816921200 1
+49/root/PoltierPortfolio/src/img/galery/image1.avif1674404356657696400 0
+30/root/PoltierPortfolio/src/img1674404311226921200 1
+37/root/PoltierPortfolio/src/index.html1674405831646921200 0
 56/root/PoltierPortfolio/src/fonts/fontawesome-webfont.eot1457639258000000000 0
 48/root/PoltierPortfolio/src/fonts/FontAwesome.otf1457639258000000000 0
 56/root/PoltierPortfolio/src/fonts/fontawesome-webfont.ttf1457639258000000000 0
-44/root/PoltierPortfolio/src/Presentation.html1671747418308360400 0
+44/root/PoltierPortfolio/src/Presentation.html1674405838716921200 0
 26/root/PoltierPortfolio/src1671658547907949300 1
 40/root/PoltierPortfolio/package-lock.json1671391677005111100 0
-38/root/PoltierPortfolio/src/Myteam.html1671658603337949300 0
+38/root/PoltierPortfolio/src/Myteam.html1674405861766921200 0
 58/root/PoltierPortfolio/node_modules/resolve-from/readme.md1671133006631455900 0
 57/root/PoltierPortfolio/node_modules/resolve-from/index.js1671133006591455900 0
 61/root/PoltierPortfolio/node_modules/resolve-from/package.json1671133006521455900 0
@@ -123,7 +128,7 @@
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/MP.js1671133007701455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/HN.js1671133007631455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/MQ.js1671133007711455900 0
-32/root/PoltierPortfolio/src/fonts1668633003904291000 1
+32/root/PoltierPortfolio/src/fonts1674405443716921200 1
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/SL.js1671133007771455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/BS.js1671133007251455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/OM.js1671133007731455900 0
@@ -133,6 +138,7 @@
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/MK.js1671133007701455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/LY.js1671133007681455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/IL.js1671133007641455900 0
+50/root/PoltierPortfolio/dist/SRunners.c4d2ecc7.avif1674405787396921200 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/NC.js1671133007721455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/MU.js1671133007711455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/DK.js1671133007561455900 0
@@ -201,6 +207,7 @@
 71/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/alt-sa.js1671133007061455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/JO.js1671133007661455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/CZ.js1671133007541455900 0
+53/root/PoltierPortfolio/src/img/trabajos/SRunners.avif1674403988381212200 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/VU.js1671133007801455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/BG.js1671133007201455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/LR.js1671133007681455900 0
@@ -366,6 +373,7 @@
 73/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/css-all.js1671133007351455900 0
 92/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/same-site-cookie-attribute.js1671133007761455900 0
 90/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/css-file-selector-button.js1671133007411455900 0
+49/root/PoltierPortfolio/src/img/galery/image3.avif1674404061803888200 0
 82/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/getcomputedstyle.js1671133007611455900 0
 85/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/css-media-scripting.js1671133007461455900 0
 70/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/webp.js1671133007811455900 0
@@ -389,7 +397,7 @@
 84/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/css-featurequeries.js1671133007411455900 0
 82/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/broadcastchannel.js1671133007241455900 0
 83/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/chacha20-poly1305.js1671133007291455900 0
-37/root/PoltierPortfolio/src/styles.css1671816035554297500 0
+37/root/PoltierPortfolio/src/styles.css1674405940596921200 0
 72/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/webnfc.js1671133007811455900 0
 70/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/ping.js1671133007741455900 0
 79/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/border-radius.js1671133007241455900 0
@@ -448,6 +456,7 @@
 78/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/border-image.js1671133007231455900 0
 78/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/transforms3d.js1671133007791455900 0
 73/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/pointer.js1671133007741455900 0
+50/root/PoltierPortfolio/dist/preloader.1197e189.gif1674405727246921200 0
 84/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/insertadjacenthtml.js1671133007651455900 0
 82/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/text-size-adjust.js1671133007781455900 0
 69/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/ime.js1671133007641455900 0
@@ -483,6 +492,7 @@
 77/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/ol-reversed.js1671133007731455900 0
 77/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/css-nesting.js1671133007471455900 0
 88/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/form-submit-attributes.js1671133007611455900 0
+55/root/PoltierPortfolio/dist/OpenSans-Light.685bc0d3.ttf1674405727336921200 0
 80/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/resizeobserver.js1671133007751455900 0
 87/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/background-attachment.js1671133007171455900 0
 89/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/css-hanging-punctuation.js1671133007431455900 0
@@ -614,6 +624,7 @@
 71/root/PoltierPortfolio/node_modules/@nodelib/fs.stat/out/adapters/fs.js1671133006771455900 0
 65/root/PoltierPortfolio/node_modules/@nodelib/fs.stat/out/adapters1671133006951455900 1
 60/root/PoltierPortfolio/node_modules/@nodelib/fs.stat/LICENSE1671133006541455900 0
+49/root/PoltierPortfolio/dist/index.62c4194b.js.map1674405787416921200 0
 65/root/PoltierPortfolio/node_modules/@nodelib/fs.stat/package.json1671133006911455900 0
 52/root/PoltierPortfolio/node_modules/@nodelib/fs.stat1671133006911455900 1
 72/root/PoltierPortfolio/node_modules/@nodelib/fs.scandir/out/constants.js1671133006771455900 0
@@ -707,7 +718,7 @@
 69/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/wav.js1671133007801455900 0
 102/root/PoltierPortfolio/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.glibc.node1671133006691455900 0
 50/root/PoltierPortfolio/node_modules/yaml/README.md1671133007211455900 0
-56/root/PoltierPortfolio/dist/Poltier profile.fec5cd6c.png1671815430844297500 0
+56/root/PoltierPortfolio/dist/Poltier profile.fec5cd6c.png1674405787406921200 0
 48/root/PoltierPortfolio/node_modules/side-channel1671133006821455900 1
 48/root/PoltierPortfolio/node_modules/yaml/LICENSE1671133006511455900 0
 50/root/PoltierPortfolio/node_modules/yaml/util.d.ts1671133007231455900 0
@@ -752,6 +763,7 @@
 55/root/PoltierPortfolio/node_modules/is-bigint/README.md1671133006851455900 0
 61/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions1671133007821455900 1
 58/root/PoltierPortfolio/node_modules/is-bigint/package.json1671133006761455900 0
+48/root/PoltierPortfolio/dist/wilson.09d2e35f.avif1674405787356921200 0
 64/root/PoltierPortfolio/node_modules/hosted-git-info/CHANGELOG.md1671133006761455900 0
 63/root/PoltierPortfolio/node_modules/hosted-git-info/git-host.js1671133006611455900 0
 68/root/PoltierPortfolio/node_modules/hosted-git-info/git-host-info.js1671133006591455900 0
@@ -774,7 +786,6 @@
 67/root/PoltierPortfolio/node_modules/domutils/lib/stringify.d.ts.map1671133006961455900 0
 66/root/PoltierPortfolio/node_modules/domutils/lib/querying.d.ts.map1671133006951455900 0
 58/root/PoltierPortfolio/node_modules/domutils/lib/legacy.js1671133006761455900 0
-50/root/PoltierPortfolio/src/img/my-team/unicorn.jpg1668982900010546600 0
 64/root/PoltierPortfolio/node_modules/domutils/lib/manipulation.js1671133006791455900 0
 60/root/PoltierPortfolio/node_modules/domutils/lib/querying.js1671133006811455900 0
 63/root/PoltierPortfolio/node_modules/domutils/lib/stringify.d.ts1671133007031455900 0
@@ -854,6 +865,7 @@
 69/root/PoltierPortfolio/node_modules/weak-lru-cache/tests/benchmark.js1671133006631455900 0
 56/root/PoltierPortfolio/node_modules/weak-lru-cache/tests1671133006721455900 1
 50/root/PoltierPortfolio/node_modules/weak-lru-cache1671133006841455900 1
+59/root/PoltierPortfolio/dist/cloudy background.7cac2205.avif1674405787356921200 0
 57/root/PoltierPortfolio/node_modules/tunnel-agent/index.js1671391674585111100 0
 56/root/PoltierPortfolio/node_modules/tunnel-agent/LICENSE1671391674575111100 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/VE.js1671133007801455900 0
@@ -1027,10 +1039,11 @@
 58/root/PoltierPortfolio/node_modules/locate-path/index.d.ts1671133006671455900 0
 56/root/PoltierPortfolio/node_modules/locate-path/index.js1671133006591455900 0
 53/root/PoltierPortfolio/node_modules/regexpp/index.mjs1671133006971455900 0
-42/root/PoltierPortfolio/dist/howwemeet.html1671815430914297500 0
+42/root/PoltierPortfolio/dist/howwemeet.html1674408121976921200 0
 56/root/PoltierPortfolio/node_modules/regexpp/index.js.map1671133006841455900 0
 84/root/PoltierPortfolio/node_modules/electron-to-chromium/full-chromium-versions.json1671133006901455900 0
 57/root/PoltierPortfolio/node_modules/regexpp/index.mjs.map1671133006911455900 0
+48/root/PoltierPortfolio/dist/image3.f5b68578.avif1674405787366921200 0
 52/root/PoltierPortfolio/node_modules/regexpp/index.js1671133006701455900 0
 43/root/PoltierPortfolio/node_modules/regexpp1671133006981455900 1
 54/root/PoltierPortfolio/node_modules/path-key/readme.md1671133006641455900 0
@@ -1157,6 +1170,7 @@
 59/root/PoltierPortfolio/node_modules/memorystream/.npmignore1671133006591455900 0
 52/root/PoltierPortfolio/node_modules/is-string/.nycrc1671133006601455900 0
 64/root/PoltierPortfolio/node_modules/memorystream/test/example.js1671133006801455900 0
+50/root/PoltierPortfolio/dist/SRunners.ccdaa870.avif1674405727336921200 0
 53/root/PoltierPortfolio/node_modules/memorystream/test1671133006801455900 1
 66/root/PoltierPortfolio/node_modules/spdx-expression-parse/index.js1671133006591455900 0
 61/root/PoltierPortfolio/node_modules/has-bigints/test/index.js1671133006711455900 0
@@ -1311,6 +1325,7 @@
 59/root/PoltierPortfolio/node_modules/optionator/package.json1671133006761455900 0
 49/root/PoltierPortfolio/node_modules/svgo/bin/svgo1671133006591455900 0
 52/root/PoltierPortfolio/node_modules/svgo/lib/xast.js1671133007331455900 0
+54/root/PoltierPortfolio/dist/harry-potter.d0f6d406.avif1674405727336921200 0
 71/root/PoltierPortfolio/node_modules/svgo/lib/svgo/css-select-adapter.js1671133007091455900 0
 48/root/PoltierPortfolio/node_modules/import-fresh1671133006641455900 1
 59/root/PoltierPortfolio/node_modules/svgo/lib/svgo/config.js1671133007021455900 0
@@ -1360,7 +1375,7 @@
 63/root/PoltierPortfolio/node_modules/svgo/plugins/removeAttrs.js1671133007181455900 0
 72/root/PoltierPortfolio/node_modules/svgo/plugins/cleanupNumericValues.js1671133006981455900 0
 68/root/PoltierPortfolio/node_modules/svgo/plugins/convertTransform.js1671133007081455900 0
-48/root/PoltierPortfolio/dist/Favicon.61244c5d.ico1671815430914297500 0
+48/root/PoltierPortfolio/dist/Favicon.61244c5d.ico1674405787306921200 0
 64/root/PoltierPortfolio/node_modules/svgo/plugins/cleanupAttrs.js1671133006931455900 0
 77/root/PoltierPortfolio/node_modules/svgo/plugins/addAttributesToSVGElement.js1671133006911455900 0
 58/root/PoltierPortfolio/node_modules/import-fresh/readme.md1671133006641455900 0
@@ -1467,6 +1482,7 @@
 57/root/PoltierPortfolio/node_modules/utility-types/LICENSE1671133006511455900 0
 68/root/PoltierPortfolio/node_modules/entities/lib/decode_codepoint.js1671133006611455900 0
 65/root/PoltierPortfolio/node_modules/entities/lib/maps/legacy.json1671133006971455900 0
+65/root/PoltierPortfolio/src/img/how we meet/cloudy background.avif1674404427040396500 0
 62/root/PoltierPortfolio/node_modules/entities/lib/maps/xml.json1671133006981455900 0
 60/root/PoltierPortfolio/node_modules/file-entry-cache/LICENSE1671133006531455900 0
 57/root/PoltierPortfolio/node_modules/has-bigints/README.md1671133006781455900 0
@@ -1547,6 +1563,7 @@
 67/root/PoltierPortfolio/node_modules/function.prototype.name/.github1671133006971455900 1
 67/root/PoltierPortfolio/node_modules/function.prototype.name/helpers1671133006741455900 1
 73/root/PoltierPortfolio/node_modules/function.prototype.name/.eslintignore1671133006591455900 0
+52/root/PoltierPortfolio/src/img/backgroundheader.avif1674403874586805800 0
 67/root/PoltierPortfolio/node_modules/function.prototype.name/LICENSE1671133006681455900 0
 61/root/PoltierPortfolio/node_modules/@types/parse-json/LICENSE1671133006541455900 0
 71/root/PoltierPortfolio/node_modules/function.prototype.name/polyfill.js1671133006881455900 0
@@ -1635,7 +1652,7 @@
 59/root/PoltierPortfolio/node_modules/function-bind/README.md1671133006611455900 0
 57/root/PoltierPortfolio/node_modules/function-bind/LICENSE1671133006651455900 0
 49/root/PoltierPortfolio/node_modules/function-bind1671133006781455900 1
-48/root/PoltierPortfolio/dist/unicorn.31af30a1.png1671815430914297500 0
+48/root/PoltierPortfolio/dist/unicorn.31af30a1.png1674405787356921200 0
 78/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/transforms2d.js1671133007791455900 0
 74/root/PoltierPortfolio/node_modules/validate-npm-package-license/README.md1671133006631455900 0
 72/root/PoltierPortfolio/node_modules/validate-npm-package-license/LICENSE1671133006591455900 0
@@ -1694,7 +1711,7 @@
 68/root/PoltierPortfolio/node_modules/@jridgewell/sourcemap-codec/dist1671133006841455900 1
 73/root/PoltierPortfolio/node_modules/@jridgewell/sourcemap-codec/README.md1671133006821455900 0
 71/root/PoltierPortfolio/node_modules/@jridgewell/sourcemap-codec/LICENSE1671133006551455900 0
-38/root/PoltierPortfolio/dist/index.html1671815430914297500 0
+38/root/PoltierPortfolio/dist/index.html1674405831786921200 0
 86/root/PoltierPortfolio/node_modules/@jridgewell/sourcemap-codec/src/sourcemap-codec.ts1671133006911455900 0
 84/root/PoltierPortfolio/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.mjs.map1671133006691455900 0
 83/root/PoltierPortfolio/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.umd.js1671133006621455900 0
@@ -1832,6 +1849,7 @@
 95/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_dump.c1671133007191455900 0
 93/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest4.c1671133007331455900 0
 93/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest3.c1671133007331455900 0
+45/root/PoltierPortfolio/src/img/howwemeet.avif1674404288154948400 0
 90/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb.c1671133007261455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/GU.js1671133007621455900 0
 59/root/PoltierPortfolio/node_modules/ajv/lib/compile/util.js1671133007251455900 0
@@ -1886,6 +1904,7 @@
 86/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.h1671133007421455900 0
 67/root/PoltierPortfolio/node_modules/caniuse-lite/data/regions/NI.js1671133007721455900 0
 76/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb1671133007521455900 1
+50/root/PoltierPortfolio/src/img/my-team/wilson.avif1674404034863290600 0
 67/root/PoltierPortfolio/node_modules/lmdb/dependencies/lz4/lib/lz4.c1671133007141455900 0
 74/root/PoltierPortfolio/node_modules/lmdb/dependencies/lz4/lib/liblz4.pc.in1671133007471455900 0
 69/root/PoltierPortfolio/node_modules/lmdb/dependencies/lz4/lib/lz4hc.h1671133007451455900 0
@@ -2015,7 +2034,6 @@
 57/root/PoltierPortfolio/node_modules/tar-stream/extract.js1671391674485111100 0
 63/root/PoltierPortfolio/node_modules/es-abstract/2017/ToInt32.js1671133007861455900 0
 67/root/PoltierPortfolio/node_modules/es-abstract/2017/GetIterator.js1671133007601455900 0
-48/root/PoltierPortfolio/src/img/galery/image4.jpg1671484122795630300 0
 66/root/PoltierPortfolio/node_modules/es-abstract/2017/IsCallable.js1671133007671455900 0
 67/root/PoltierPortfolio/node_modules/es-abstract/2017/ArrayCreate.js1671133007221455900 0
 74/root/PoltierPortfolio/node_modules/es-abstract/2017/ArraySpeciesCreate.js1671133007261455900 0
@@ -2048,6 +2066,7 @@
 65/root/PoltierPortfolio/node_modules/object.assign/test/shimmed.js1671133007201455900 0
 64/root/PoltierPortfolio/node_modules/es-abstract/2017/IsRegExp.js1671133007711455900 0
 61/root/PoltierPortfolio/node_modules/es-abstract/2017/floor.js1671133007591455900 0
+61/root/PoltierPortfolio/dist/un-viaje-inesperado.2b66ece6.avif1674405787316921200 0
 63/root/PoltierPortfolio/node_modules/es-abstract/2017/WeekDay.js1671133007901455900 0
 75/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/dom-range.js1671133007571455900 0
 84/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/html-media-capture.js1671133007631455900 0
@@ -2357,7 +2376,6 @@
 81/root/PoltierPortfolio/node_modules/resolve/test/resolver/incorrect_main/index.js1671133007261455900 0
 100/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_class_check_private_static_field_descriptor.js1671133006941455900 0
 70/root/PoltierPortfolio/node_modules/resolve/test/node-modules-paths.js1671133007341455900 0
-61/root/PoltierPortfolio/src/img/how we meet/bag-and-hands.avif1669150501328570700 0
 62/root/PoltierPortfolio/node_modules/css-what/lib/es/parse.d.ts1671133007051455900 0
 89/root/PoltierPortfolio/node_modules/resolve/test/shadowed_core/node_modules/util/index.js1671133007291455900 0
 75/root/PoltierPortfolio/node_modules/@nodelib/fs.walk/out/readers/async.d.ts1671133007001455900 0
@@ -2373,9 +2391,9 @@
 76/root/PoltierPortfolio/node_modules/eslint/node_modules/cross-spawn/lib/util1671133006771455900 1
 49/root/PoltierPortfolio/node_modules/es-abstract/51671133007911455900 1
 55/root/PoltierPortfolio/node_modules/resolve/lib/sync.js1671133007381455900 0
-48/root/PoltierPortfolio/src/img/galery/image3.jpg1671484110565487400 0
 63/root/PoltierPortfolio/node_modules/react-error-overlay/LICENSE1671133006521455900 0
 77/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-unused-expressions.js1671133007631455900 0
+50/root/PoltierPortfolio/dist/index.98fa27ef.css.map1674405727736921200 0
 60/root/PoltierPortfolio/node_modules/source-map/source-map.js1671133006691455900 0
 58/root/PoltierPortfolio/node_modules/resolve/lib/homedir.js1671133007161455900 0
 76/root/PoltierPortfolio/node_modules/js-sdsl/dist/esm/container/ContainerBase1671133007211455900 1
@@ -2467,6 +2485,7 @@
 64/root/PoltierPortfolio/node_modules/es-abstract/2016/ToUint32.js1671133007891455900 0
 58/root/PoltierPortfolio/node_modules/sharp/src/operations.h1671391674665111100 0
 75/root/PoltierPortfolio/node_modules/sharp/src/libvips/cplusplus/VRegion.cpp1671391674665111100 0
+49/root/PoltierPortfolio/src/img/galery/image4.avif1674404061321024400 0
 73/root/PoltierPortfolio/node_modules/terser/lib/compress/native-objects.js1671133007281455900 0
 80/root/PoltierPortfolio/node_modules/sharp/src/libvips/cplusplus/VInterpolate.cpp1671391674655111100 0
 48/root/PoltierPortfolio/node_modules/css-tree/lib1671133007321455900 1
@@ -2491,6 +2510,7 @@
 83/root/PoltierPortfolio/node_modules/sharp/node_modules/node-addon-api/noexcept.gypi1671391674625111100 0
 74/root/PoltierPortfolio/node_modules/eslint/node_modules/path-key/readme.md1671133006661455900 0
 71/root/PoltierPortfolio/node_modules/css-tree/lib/syntax/atrule/media.js1671133007371455900 0
+51/root/PoltierPortfolio/dist/howwemeet.4ba4a3f4.avif1674405787396921200 0
 82/root/PoltierPortfolio/node_modules/es-abstract/2020/AbstractEqualityComparison.js1671133007131455900 0
 62/root/PoltierPortfolio/node_modules/simple-concat/package.json1671391674485111100 0
 79/root/PoltierPortfolio/node_modules/sharp/node_modules/node-addon-api/nothing.c1671391674615111100 0
@@ -2527,7 +2547,7 @@
 66/root/PoltierPortfolio/node_modules/es-abstract/2018/CreateHTML.js1671133007441455900 0
 70/root/PoltierPortfolio/node_modules/sharp/node_modules/semver/index.js1671391674645111100 0
 72/root/PoltierPortfolio/node_modules/@parcel/codeframe/test/fixtures/a.js1671133006661455900 0
-49/root/PoltierPortfolio/dist/index.0641b553.js.map1671815430914297500 0
+49/root/PoltierPortfolio/dist/index.0641b553.js.map1671817200004297500 0
 60/root/PoltierPortfolio/node_modules/es-abstract/2015/Call.js1671133007351455900 0
 87/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.c1671133007211455900 0
 79/root/PoltierPortfolio/node_modules/sharp/node_modules/semver/classes/semver.js1671391674665111100 0
@@ -2677,6 +2697,7 @@
 59/root/PoltierPortfolio/node_modules/csso/lib/clean/index.js1671133007171455900 0
 69/root/PoltierPortfolio/node_modules/es-abstract/2017/thisTimeValue.js1671133007851455900 0
 92/root/PoltierPortfolio/node_modules/@babel/highlight/node_modules/color-convert/package.json1671133006591455900 0
+48/root/PoltierPortfolio/dist/Favicon.2d8c6850.ico1674405727336921200 0
 83/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/link-rel-prefetch.js1671133007681455900 0
 50/root/PoltierPortfolio/node_modules/csso/lib/clean1671133007231455900 1
 67/root/PoltierPortfolio/node_modules/minimist/test/parse_modified.js1671391674615111100 0
@@ -2764,6 +2785,7 @@
 97/root/PoltierPortfolio/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src1671133007311455900 1
 61/root/PoltierPortfolio/node_modules/es-to-primitive/.eslintrc1671133006541455900 0
 63/root/PoltierPortfolio/node_modules/es-to-primitive/test/es6.js1671133006871455900 0
+64/root/PoltierPortfolio/src/img/trabajos/un-viaje-inesperado.avif1674404008580097100 0
 63/root/PoltierPortfolio/node_modules/es-to-primitive/test/es5.js1671133006811455900 0
 71/root/PoltierPortfolio/node_modules/es-to-primitive/.github/FUNDING.yml1671133006971455900 0
 70/root/PoltierPortfolio/node_modules/xxhash-wasm/cjs/xxhash-wasm.js.map1671133006801455900 0
@@ -2780,6 +2802,7 @@
 72/root/PoltierPortfolio/node_modules/es-abstract/2021/Number/sameValue.js1671133007821455900 0
 58/root/PoltierPortfolio/node_modules/es-to-primitive/es5.js1671133006791455900 0
 70/root/PoltierPortfolio/node_modules/type-fest/source/set-required.d.ts1671133007081455900 0
+48/root/PoltierPortfolio/dist/image1.1bf926aa.avif1674405727256921200 0
 63/root/PoltierPortfolio/node_modules/object-inspect/CHANGELOG.md1671133007071455900 0
 55/root/PoltierPortfolio/node_modules/terser/package.json1671133007351455900 0
 82/root/PoltierPortfolio/node_modules/sharp/src/libvips/cplusplus/vips-operators.cpp1671391674655111100 0
@@ -2955,6 +2978,7 @@
 96/root/PoltierPortfolio/node_modules/js-sdsl/dist/esm/container/OtherContainer/PriorityQueue.d.ts1671133007241455900 0
 48/root/PoltierPortfolio/node_modules/esquery/dist1671133007141455900 1
 80/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_assert_this_initialized.js1671133006711455900 0
+48/root/PoltierPortfolio/dist/unicorn.284c9125.png1674405727346921200 0
 61/root/PoltierPortfolio/node_modules/@parcel/core/lib/utils.js1671133007501455900 0
 86/root/PoltierPortfolio/node_modules/js-sdsl/dist/esm/container/OtherContainer/Queue.js1671133007251455900 0
 72/root/PoltierPortfolio/node_modules/es-abstract/2022/BigInt/bitwiseOR.js1671133007321455900 0
@@ -3008,7 +3032,7 @@
 62/root/PoltierPortfolio/node_modules/js-sdsl/dist/esm/container1671133007281455900 1
 51/root/PoltierPortfolio/node_modules/js-sdsl/LICENSE1671133006591455900 0
 52/root/PoltierPortfolio/node_modules/eslint-scope/lib1671133006971455900 1
-37/root/PoltierPortfolio/src/Links.html1671816142714297500 0
+37/root/PoltierPortfolio/src/Links.html1674405865806921200 0
 43/root/PoltierPortfolio/node_modules/js-sdsl1671133006701455900 1
 45/root/PoltierPortfolio/node_modules/which/bin1671133006691455900 1
 66/root/PoltierPortfolio/node_modules/es-abstract/2018/DaysInYear.js1671133007521455900 0
@@ -3223,7 +3247,6 @@
 68/root/PoltierPortfolio/node_modules/term-size/vendor/macos/.DS_Store1671133006631455900 0
 65/root/PoltierPortfolio/node_modules/react-error-overlay/README.md1671133006991455900 0
 63/root/PoltierPortfolio/node_modules/es-abstract/2016/IsArray.js1671133007661455900 0
-48/root/PoltierPortfolio/src/img/galery/image1.jpg1671484114411046300 0
 79/root/PoltierPortfolio/node_modules/@parcel/watcher/src/linux/InotifyBackend.cc1671133006941455900 0
 76/root/PoltierPortfolio/node_modules/es-abstract/2021/ToPropertyDescriptor.js1671133007881455900 0
 49/root/PoltierPortfolio/node_modules/@lezer/common1671133006871455900 1
@@ -3393,6 +3416,7 @@
 62/root/PoltierPortfolio/node_modules/v8-compile-cache/README.md1671133006721455900 0
 76/root/PoltierPortfolio/node_modules/yaml/browser/dist/resolveSeq-492ab440.js1671133007111455900 0
 74/root/PoltierPortfolio/node_modules/eslint/lib/rules/prefer-rest-params.js1671133007671455900 0
+49/root/PoltierPortfolio/dist/index.f3d6d23e.js.map1674405727736921200 0
 54/root/PoltierPortfolio/node_modules/@parcel/logger/lib1671133006591455900 1
 81/root/PoltierPortfolio/node_modules/readable-stream/lib/internal/streams/state.js1671391674645111100 0
 72/root/PoltierPortfolio/node_modules/v8-compile-cache/v8-compile-cache.js1671133006591455900 0
@@ -3788,7 +3812,7 @@
 52/root/PoltierPortfolio/node_modules/msgpackr/pack.js1671133006961455900 0
 67/root/PoltierPortfolio/node_modules/@parcel/utils/src/getRootDir.js1671133007031455900 0
 64/root/PoltierPortfolio/node_modules/@parcel/source-map/README.md1671133007071455900 0
-50/root/PoltierPortfolio/dist/preloader.ca2913d2.gif1671815430964297500 0
+50/root/PoltierPortfolio/dist/preloader.ca2913d2.gif1674405787356921200 0
 63/root/PoltierPortfolio/node_modules/text-table/example/table.js1671133006801455900 0
 67/root/PoltierPortfolio/node_modules/@parcel/optimizer-image/LICENSE1671133006541455900 0
 69/root/PoltierPortfolio/node_modules/@parcel/graph/src/ContentGraph.js1671133006931455900 0
@@ -4017,7 +4041,7 @@
 54/root/PoltierPortfolio/node_modules/bl/test/indexOf.js1671391674485111100 0
 61/root/PoltierPortfolio/node_modules/@jridgewell/set-array/src1671133006841455900 1
 62/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-new.js1671133007601455900 0
-38/root/PoltierPortfolio/src/img/my-team1668982907230546600 1
+38/root/PoltierPortfolio/src/img/my-team1674404441126921200 1
 71/root/PoltierPortfolio/node_modules/type-fest/source/literal-union.d.ts1671133006991455900 0
 64/root/PoltierPortfolio/node_modules/es-abstract/2018/TimeClip.js1671133007851455900 0
 86/root/PoltierPortfolio/node_modules/eslint/lib/rules/prefer-exponentiation-operator.js1671133007661455900 0
@@ -4072,6 +4096,7 @@
 89/root/PoltierPortfolio/node_modules/eslint/lib/linter/code-path-analysis/debug-helpers.js1671133007251455900 0
 83/root/PoltierPortfolio/node_modules/@swc/helpers/src/_class_private_method_init.mjs1671133007301455900 0
 79/root/PoltierPortfolio/node_modules/@parcel/workers/test/integration/workerfarm1671133007081455900 1
+51/root/PoltierPortfolio/dist/howwemeet.c71b79c4.avif1674405727346921200 0
 76/root/PoltierPortfolio/node_modules/es-abstract/2017/ToPropertyDescriptor.js1671133007881455900 0
 63/root/PoltierPortfolio/node_modules/is-core-module/package.json1671133006801455900 0
 60/root/PoltierPortfolio/node_modules/buffer-from/package.json1671133006611455900 0
@@ -4158,6 +4183,7 @@
 62/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-var.js1671133007641455900 0
 87/root/PoltierPortfolio/node_modules/@jridgewell/trace-mapping/dist/trace-mapping.umd.js1671133006661455900 0
 67/root/PoltierPortfolio/node_modules/es-abstract/2018/SecFromTime.js1671133007831455900 0
+45/root/PoltierPortfolio/dist/index.f77f6e47.js1674405727736921200 0
 55/root/PoltierPortfolio/node_modules/css-tree/lib/syntax1671133007351455900 1
 58/root/PoltierPortfolio/node_modules/minimist/test/proto.js1671391674635111100 0
 74/root/PoltierPortfolio/node_modules/es-abstract/2020/CreateDataProperty.js1671133007431455900 0
@@ -4172,7 +4198,7 @@
 46/root/PoltierPortfolio/node_modules/fastq/test1671133006871455900 1
 90/root/PoltierPortfolio/node_modules/dom-serializer/node_modules/entities/lib/maps/xml.json1671133006911455900 0
 56/root/PoltierPortfolio/node_modules/find-up/package.json1671133006611455900 0
-51/root/PoltierPortfolio/dist/howwemeet.c2fa9ee2.jpeg1671815430974297500 0
+51/root/PoltierPortfolio/dist/howwemeet.c2fa9ee2.jpeg1671817200074297500 0
 59/root/PoltierPortfolio/node_modules/resolve/test/subdirs.js1671133007371455900 0
 41/root/PoltierPortfolio/node_modules/json51671133006981455900 1
 64/root/PoltierPortfolio/node_modules/eslint/lib/shared/logging.js1671133007491455900 0
@@ -4180,6 +4206,7 @@
 63/root/PoltierPortfolio/node_modules/internal-slot/test/index.js1671133006761455900 0
 79/root/PoltierPortfolio/node_modules/es-abstract/2020/CreateListFromArrayLike.js1671133007471455900 0
 90/root/PoltierPortfolio/node_modules/js-sdsl/dist/esm/container/TreeContainer/Base/index.js1671133007411455900 0
+48/root/PoltierPortfolio/dist/image4.087fa768.avif1674405727256921200 0
 60/root/PoltierPortfolio/node_modules/minimist/test/unknown.js1671391674635111100 0
 52/root/PoltierPortfolio/node_modules/is-negative-zero1671133006851455900 1
 55/root/PoltierPortfolio/node_modules/type-fest/base.d.ts1671133006771455900 0
@@ -4193,6 +4220,7 @@
 83/root/PoltierPortfolio/node_modules/@parcel/core/lib/requests/WriteBundleRequest.js1671133007511455900 0
 54/root/PoltierPortfolio/node_modules/parse-json/license1671133006521455900 0
 96/root/PoltierPortfolio/node_modules/lightningcss-linux-x64-musl/lightningcss.linux-x64-musl.node1671133007481455900 0
+45/root/PoltierPortfolio/dist/logo.8bafe4cc.png1674405727356921200 0
 66/root/PoltierPortfolio/node_modules/es-abstract/2016/IsCallable.js1671133007671455900 0
 80/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_class_private_field_set.js1671133007011455900 0
 66/root/PoltierPortfolio/node_modules/is-number-object/test/index.js1671133006731455900 0
@@ -4218,7 +4246,7 @@
 56/root/PoltierPortfolio/node_modules/js-yaml/CHANGELOG.md1671133007121455900 0
 61/root/PoltierPortfolio/node_modules/@parcel/watcher/src/macos1671133007051455900 1
 60/root/PoltierPortfolio/node_modules/es-to-primitive/Makefile1671133006611455900 0
-39/root/PoltierPortfolio/dist/Myteam.html1671815430914297500 0
+39/root/PoltierPortfolio/dist/Myteam.html1674405861796921200 0
 70/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-extra-label.js1671133007571455900 0
 58/root/PoltierPortfolio/node_modules/@parcel/codeframe/test1671133007231455900 1
 50/root/PoltierPortfolio/node_modules/buffer/LICENSE1671391674535111100 0
@@ -4400,7 +4428,7 @@
 69/root/PoltierPortfolio/node_modules/eslint/lib/shared/runtime-info.js1671133007691455900 0
 78/root/PoltierPortfolio/node_modules/eslint/lib/rules/utils/patterns/letters.js1671133007461455900 0
 65/root/PoltierPortfolio/node_modules/@parcel/utils/src/throttle.js1671133007351455900 0
-48/root/PoltierPortfolio/dist/image2.4c1a40c7.jpeg1671815430914297500 0
+48/root/PoltierPortfolio/dist/image2.4c1a40c7.jpeg1671817200044297500 0
 63/root/PoltierPortfolio/node_modules/is-boolean-object/.eslintrc1671133006601455900 0
 82/root/PoltierPortfolio/node_modules/sharp/node_modules/node-addon-api/package.json1671391674665111100 0
 60/root/PoltierPortfolio/node_modules/is-core-module/.eslintrc1671133006531455900 0
@@ -4452,6 +4480,7 @@
 48/root/PoltierPortfolio/node_modules/once/LICENSE1671133006601455900 0
 67/root/PoltierPortfolio/node_modules/es-abstract/2018/UTF16Decode.js1671133007901455900 0
 22/root/PoltierPortfolio1671392735345111100 1
+48/root/PoltierPortfolio/dist/image4.075a9e65.avif1674405787406921200 0
 44/root/PoltierPortfolio/node_modules/posthtml1671133006671455900 1
 69/root/PoltierPortfolio/node_modules/es-abstract/2019/thisTimeValue.js1671133007851455900 0
 87/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.11671133007081455900 0
@@ -4715,7 +4744,7 @@
 68/root/PoltierPortfolio/node_modules/@jridgewell/source-map/README.md1671133006961455900 0
 143/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/subfolder1/subfolder2/subfile.js1671133007451455900 0
 73/root/PoltierPortfolio/node_modules/es-abstract/2021/GetPromiseResolve.js1671133007611455900 0
-37/root/PoltierPortfolio/src/img/galery1671648621427949300 1
+37/root/PoltierPortfolio/src/img/galery1674404406346921200 1
 62/root/PoltierPortfolio/node_modules/resolve/test/module_dir.js1671133007331455900 0
 80/root/PoltierPortfolio/node_modules/eslint/node_modules/cross-spawn/package.json1671133006821455900 0
 74/root/PoltierPortfolio/node_modules/type-fest/source/conditional-pick.d.ts1671133006891455900 0
@@ -4998,7 +5027,6 @@
 77/root/PoltierPortfolio/node_modules/@parcel/reporter-dev-server/src/Server.js1671133006821455900 0
 59/root/PoltierPortfolio/node_modules/prettier/parser-flow.js1671133007451455900 0
 68/root/PoltierPortfolio/node_modules/es-abstract/2015/RegExpCreate.js1671133007811455900 0
-40/root/PoltierPortfolio/src/img/thumb.jpg1470172433934294400 0
 87/root/PoltierPortfolio/node_modules/eslint/lib/rules/padding-line-between-statements.js1671133007661455900 0
 64/root/PoltierPortfolio/node_modules/@parcel/workers/src/index.js1671133007001455900 0
 65/root/PoltierPortfolio/node_modules/@parcel/workers/src/Worker.js1671133007121455900 0
@@ -5031,7 +5059,6 @@
 62/root/PoltierPortfolio/node_modules/@swc/helpers/src/index.mjs1671133007411455900 0
 68/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-dupe-keys.js1671133007541455900 0
 68/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-redeclare.js1671133007611455900 0
-40/root/PoltierPortfolio/src/img/fondo.jpg1470172549367754100 0
 91/root/PoltierPortfolio/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/midl.c1671133007301455900 0
 65/root/PoltierPortfolio/node_modules/object-inspect/test/bigint.js1671133006731455900 0
 78/root/PoltierPortfolio/node_modules/eslint/lib/rules/class-methods-use-this.js1671133007131455900 0
@@ -5259,6 +5286,7 @@
 64/root/PoltierPortfolio/node_modules/fast-deep-equal/package.json1671133006741455900 0
 47/root/PoltierPortfolio/node_modules/buffer-from1671133006611455900 1
 68/root/PoltierPortfolio/node_modules/@parcel/transformer-posthtml/src1671133006711455900 1
+58/root/PoltierPortfolio/dist/backgroundheader.0d9ca391.avif1674405727336921200 0
 57/root/PoltierPortfolio/node_modules/punycode/package.json1671133006521455900 0
 81/root/PoltierPortfolio/node_modules/@parcel/runtime-browser-hmr/lib/HMRRuntime.js1671133006891455900 0
 81/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/mutation-events.js1671133007711455900 0
@@ -5676,7 +5704,7 @@
 74/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_non_iterable_rest.js1671133007161455900 0
 81/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_class_private_field_init.js1671133007001455900 0
 82/root/PoltierPortfolio/node_modules/@parcel/package-manager/test/fixtures/packages1671133007131455900 1
-46/root/PoltierPortfolio/dist/index.4d663569.css1671816035564297500 0
+46/root/PoltierPortfolio/dist/index.4d663569.css1674405940616921200 0
 75/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/proximity.js1671133007741455900 0
 78/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_await_async_generator.js1671133006841455900 0
 69/root/PoltierPortfolio/node_modules/es-abstract/2020/IteratorClose.js1671133007731455900 0
@@ -5771,6 +5799,7 @@
 69/root/PoltierPortfolio/node_modules/es-abstract/2015/TimeWithinDay.js1671133007861455900 0
 58/root/PoltierPortfolio/node_modules/css-tree/data/index.js1671133007311455900 0
 69/root/PoltierPortfolio/node_modules/es-abstract/2015/thisTimeValue.js1671133007851455900 0
+49/root/PoltierPortfolio/src/img/galery/image2.avif1674404393289379400 0
 49/root/PoltierPortfolio/node_modules/css-tree/dist1671133007211455900 1
 55/root/PoltierPortfolio/node_modules/css-tree/lib/walker1671133007341455900 1
 58/root/PoltierPortfolio/node_modules/sharp/lib/operation.js1671391674685111100 0
@@ -5798,6 +5827,7 @@
 74/root/PoltierPortfolio/node_modules/css-tree/lib/syntax/node/MediaQuery.js1671133007381455900 0
 74/root/PoltierPortfolio/node_modules/sharp/src/libvips/cplusplus/VError.cpp1671391674655111100 0
 52/root/PoltierPortfolio/node_modules/is-number-object1671133006831455900 1
+54/root/PoltierPortfolio/dist/harry-potter.df3c42b0.avif1674405787356921200 0
 61/root/PoltierPortfolio/node_modules/is-arrayish/.istanbul.yml1671133006701455900 0
 67/root/PoltierPortfolio/node_modules/@parcel/plugin/src/PluginAPI.js1671133006681455900 0
 71/root/PoltierPortfolio/node_modules/css-tree/lib/syntax/node/Comment.js1671133007051455900 0
@@ -5857,7 +5887,7 @@
 75/root/PoltierPortfolio/node_modules/fast-json-stable-stringify/package.json1671133006891455900 0
 74/root/PoltierPortfolio/node_modules/css-tree/lib/syntax/node/Percentage.js1671133007411455900 0
 88/root/PoltierPortfolio/node_modules/sharp/vendor/8.13.3/linux-x64/THIRD-PARTY-NOTICES.md1667475822000000000 0
-38/root/PoltierPortfolio/dist/Links.html1671816142734297500 0
+38/root/PoltierPortfolio/dist/Links.html1674405865906921200 0
 89/root/PoltierPortfolio/node_modules/@babel/highlight/node_modules/color-convert/README.md1671133006771455900 0
 57/root/PoltierPortfolio/node_modules/node-addon-api/napi.h1671133006991455900 0
 61/root/PoltierPortfolio/node_modules/css-tree/lib/syntax/scope1671133007441455900 1
@@ -6181,6 +6211,7 @@
 74/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/wai-aria.js1671133007801455900 0
 72/root/PoltierPortfolio/node_modules/@parcel/bundler-default/package.json1671133006891455900 0
 67/root/PoltierPortfolio/node_modules/@parcel/bundler-default/LICENSE1671133006541455900 0
+48/root/PoltierPortfolio/dist/image3.765cf854.avif1674405727356921200 0
 63/root/PoltierPortfolio/node_modules/@parcel/bundler-default/lib1671133006591455900 1
 51/root/PoltierPortfolio/node_modules/xxhash-wasm/cjs1671133006781455900 1
 77/root/PoltierPortfolio/node_modules/@parcel/transformer-posthtml/package.json1671133006771455900 0
@@ -6319,6 +6350,7 @@
 63/root/PoltierPortfolio/node_modules/cosmiconfig/dist/loaders.js1671133006811455900 0
 62/root/PoltierPortfolio/node_modules/resolve/test/precedence.js1671133007361455900 0
 73/root/PoltierPortfolio/node_modules/es-abstract/2019/SetIntegrityLevel.js1671133007831455900 0
+49/root/PoltierPortfolio/dist/unicorn.b297bf56.avif1674405787306921200 0
 69/root/PoltierPortfolio/node_modules/es-abstract/2022/MonthFromTime.js1671133007771455900 0
 90/root/PoltierPortfolio/node_modules/@parcel/workers/test/integration/workerfarm/logging.js1671133007011455900 0
 90/root/PoltierPortfolio/node_modules/@parcel/workers/test/integration/workerfarm/ipc-pid.js1671133007001455900 0
@@ -6651,6 +6683,7 @@
 125/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/package.json1671133007481455900 0
 89/root/PoltierPortfolio/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js1671133006871455900 0
 68/root/PoltierPortfolio/node_modules/es-abstract/2019/ObjectCreate.js1671133007781455900 0
+53/root/PoltierPortfolio/src/fonts/OpenSans-Regular.ttf1296601200000000000 0
 120/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/main.js1671133007371455900 0
 110/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias1671133007481455900 1
 79/root/PoltierPortfolio/node_modules/caniuse-lite/data/features/passwordrules.js1671133007731455900 0
@@ -6793,6 +6826,7 @@
 51/root/PoltierPortfolio/node_modules/rc/lib/utils.js1671391674585111100 0
 50/root/PoltierPortfolio/node_modules/chownr/LICENSE1671391674475111100 0
 91/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/fixture/nested/index.js1671133007181455900 0
+49/root/PoltierPortfolio/dist/index.f77f6e47.js.map1674405727736921200 0
 64/root/PoltierPortfolio/node_modules/ajv/lib/dotjs/uniqueItems.js1671133007241455900 0
 79/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/resolver.js1671133007441455900 0
 68/root/PoltierPortfolio/node_modules/abortcontroller-polyfill/LICENSE1671133006541455900 0
@@ -6802,7 +6836,7 @@
 61/root/PoltierPortfolio/node_modules/svgo/plugins/sortAttrs.js1671133007251455900 0
 58/root/PoltierPortfolio/node_modules/css-tree/lib/generator1671133007421455900 1
 48/root/PoltierPortfolio/node_modules/@parcel/hash1671133007361455900 1
-54/root/PoltierPortfolio/dist/harry potter.cf5b6ebf.jpeg1671815430844297500 0
+54/root/PoltierPortfolio/dist/harry potter.cf5b6ebf.jpeg1671817199944297500 0
 82/root/PoltierPortfolio/node_modules/js-sdsl/dist/cjs/container/SequentialContainer1671133007321455900 1
 79/root/PoltierPortfolio/node_modules/@parcel/core/test/fixtures/invalid-distpath1671133007531455900 1
 55/root/PoltierPortfolio/node_modules/has-bigints/.github1671133006801455900 1
@@ -6884,7 +6918,7 @@
 79/root/PoltierPortfolio/node_modules/@parcel/transformer-svg/lib/dependencies.js1671133006621455900 0
 73/root/PoltierPortfolio/node_modules/es-abstract/2021/SetIntegrityLevel.js1671133007831455900 0
 76/root/PoltierPortfolio/node_modules/@parcel/core/src/public/PluginOptions.js1671133007421455900 0
-58/root/PoltierPortfolio/dist/backgroundheader.24a4a44e.jpeg1671815430964297500 0
+58/root/PoltierPortfolio/dist/backgroundheader.24a4a44e.jpeg1671817200014297500 0
 69/root/PoltierPortfolio/node_modules/@parcel/core/src/public/Target.js1671133007471455900 0
 76/root/PoltierPortfolio/node_modules/regexp.prototype.flags/implementation.js1671133006701455900 0
 59/root/PoltierPortfolio/node_modules/node-addon-api/index.js1671133007041455900 0
@@ -7281,7 +7315,7 @@
 58/root/PoltierPortfolio/node_modules/deep-is/example/cmp.js1671133006611455900 0
 71/root/PoltierPortfolio/node_modules/@parcel/watcher/prebuilds/win32-x641671133007261455900 1
 83/root/PoltierPortfolio/node_modules/es-abstract/2019/GetPrototypeFromConstructor.js1671133007621455900 0
-27/root/PoltierPortfolio/dist1671816142734297500 1
+27/root/PoltierPortfolio/dist1674408121976921200 1
 85/root/PoltierPortfolio/node_modules/eslint/lib/rules/no-constant-binary-expression.js1671133007531455900 0
 92/root/PoltierPortfolio/node_modules/@parcel/watcher/prebuilds/win32-x64/node.napi.glibc.node1671133007321455900 0
 67/root/PoltierPortfolio/node_modules/es-abstract/2020/CodePointAt.js1671133007401455900 0
@@ -7294,7 +7328,6 @@
 76/root/PoltierPortfolio/node_modules/@parcel/runtime-browser-hmr/package.json1671133006941455900 0
 85/root/PoltierPortfolio/node_modules/resolve/test/resolver/other_path/lib/other-lib.js1671133007351455900 0
 71/root/PoltierPortfolio/node_modules/@parcel/runtime-browser-hmr/LICENSE1671133006541455900 0
-48/root/PoltierPortfolio/src/img/galery/image2.jpg1671484124883606400 0
 90/root/PoltierPortfolio/node_modules/@parcel/runtime-browser-hmr/lib/loaders/hmr-runtime.js1671133006681455900 0
 80/root/PoltierPortfolio/node_modules/@parcel/watcher/src/macos/FSEventsBackend.hh1671133007061455900 0
 68/root/PoltierPortfolio/node_modules/es-abstract/2021/IsExtensible.js1671133007691455900 0
@@ -7350,6 +7383,7 @@
 63/root/PoltierPortfolio/node_modules/github-from-package/example1671391674575111100 1
 64/root/PoltierPortfolio/node_modules/es-abstract/2020/ToUint32.js1671133007891455900 0
 60/root/PoltierPortfolio/node_modules/doctrine/lib/doctrine.js1671133006881455900 0
+46/root/PoltierPortfolio/dist/index.98fa27ef.css1674405727736921200 0
 114/root/PoltierPortfolio/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/b1671133007281455900 1
 68/root/PoltierPortfolio/node_modules/github-from-package/package.json1671391674545111100 0
 74/root/PoltierPortfolio/node_modules/node-abi/node_modules/semver/range.bnf1671391674595111100 0
@@ -7461,6 +7495,7 @@
 73/root/PoltierPortfolio/node_modules/abortcontroller-polyfill/package.json1671133006981455900 0
 66/root/PoltierPortfolio/node_modules/es-abstract/2017/RegExpExec.js1671133007811455900 0
 59/root/PoltierPortfolio/node_modules/ansi-regex/package.json1671133006621455900 0
+45/root/PoltierPortfolio/dist/index.62c4194b.js1674405787416921200 0
 71/root/PoltierPortfolio/node_modules/es-abstract/2020/thisNumberValue.js1671133007851455900 0
 67/root/PoltierPortfolio/node_modules/es-abstract/2021/ToBigUint64.js1671133007861455900 0
 55/root/PoltierPortfolio/node_modules/ansi-regex/index.js1671133006591455900 0
@@ -7671,7 +7706,7 @@
 68/root/PoltierPortfolio/node_modules/tar-fs/test/fixtures/d/sub-files1671391674645111100 1
 71/root/PoltierPortfolio/node_modules/mdn-data/css/properties.schema.json1671133007091455900 0
 62/root/PoltierPortfolio/node_modules/es-abstract/5/ToBoolean.js1671133007861455900 0
-45/root/PoltierPortfolio/dist/logo.726d37a8.png1671815430804297500 0
+45/root/PoltierPortfolio/dist/logo.726d37a8.png1674405787356921200 0
 88/root/PoltierPortfolio/node_modules/@swc/helpers/lib/_class_static_private_method_get.js1671133007071455900 0
 74/root/PoltierPortfolio/node_modules/tar-fs/test/fixtures/d/sub-files/file31671391674645111100 0
 66/root/PoltierPortfolio/node_modules/tar-fs/test/fixtures/d/sub-dir1671391674645111100 1
@@ -7709,6 +7744,7 @@
 73/root/PoltierPortfolio/node_modules/es-abstract/2022/InstallErrorCause.js1671133007651455900 0
 87/root/PoltierPortfolio/node_modules/npm-run-all/node_modules/color-convert/package.json1671133006591455900 0
 69/root/PoltierPortfolio/node_modules/es-abstract/2022/ByteListEqual.js1671133007351455900 0
+58/root/PoltierPortfolio/dist/backgroundheader.73a60814.avif1674405787306921200 0
 82/root/PoltierPortfolio/node_modules/npm-run-all/node_modules/color-convert/LICENSE1671133006751455900 0
 62/root/PoltierPortfolio/node_modules/eslint/lib/linter/index.js1671133007421455900 0
 77/root/PoltierPortfolio/node_modules/npm-run-all/node_modules/has-flag/license1671133006631455900 0
@@ -7822,7 +7858,7 @@
 52/root/PoltierPortfolio/node_modules/lmdb/src/txn.cpp1671133007401455900 0
 68/root/PoltierPortfolio/node_modules/eslint/lib/rules/sort-imports.js1671133007691455900 0
 68/root/PoltierPortfolio/node_modules/es-abstract/2015/YearFromTime.js1671133007911455900 0
-45/root/PoltierPortfolio/dist/index.0641b553.js1671815430914297500 0
+45/root/PoltierPortfolio/dist/index.0641b553.js1671817199974297500 0
 69/root/PoltierPortfolio/node_modules/es-abstract/2017/MonthFromTime.js1671133007771455900 0
 40/root/PoltierPortfolio/node_modules/csso1671133007241455900 1
 76/root/PoltierPortfolio/node_modules/es-abstract/2018/StringGetOwnProperty.js1671133007841455900 0
@@ -7844,7 +7880,7 @@
 66/root/PoltierPortfolio/node_modules/@swc/helpers/src/_defaults.mjs1671133007321455900 0
 83/root/PoltierPortfolio/node_modules/es-abstract/2015/CanonicalNumericIndexString.js1671133007371455900 0
 64/root/PoltierPortfolio/node_modules/es-abstract/2015/MakeTime.js1671133007751455900 0
-41/root/PoltierPortfolio/src/howwemeet.html1671742923948360400 0
+41/root/PoltierPortfolio/src/howwemeet.html1674408121896921200 0
 83/root/PoltierPortfolio/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.hh1671133007091455900 0
 62/root/PoltierPortfolio/node_modules/es-abstract/2015/Invoke.js1671133007651455900 0
 70/root/PoltierPortfolio/node_modules/@nodelib/fs.scandir/out/index.d.ts1671133007001455900 0
@@ -7859,6 +7895,7 @@
 76/root/PoltierPortfolio/node_modules/es-abstract/2020/Number/sameValueZero.js1671133007821455900 0
 64/root/PoltierPortfolio/node_modules/es-abstract/2015/ToLength.js1671133007871455900 0
 66/root/PoltierPortfolio/node_modules/es-abstract/operations/2017.js1671133006891455900 0
+51/root/PoltierPortfolio/src/fonts/OpenSans-Light.ttf1296601200000000000 0
 72/root/PoltierPortfolio/node_modules/caniuse-lite/dist/unpacker/region.js1671133007751455900 0
 84/root/PoltierPortfolio/node_modules/es-abstract/2015/AbstractRelationalComparison.js1671133007131455900 0
 85/root/PoltierPortfolio/node_modules/es-abstract/2021/IsUnclampedIntegerElementType.js1671133007721455900 0
@@ -8548,10 +8585,11 @@
 61/root/PoltierPortfolio/node_modules/es-abstract/5/ToNumber.js1671133007881455900 0
 72/root/PoltierPortfolio/node_modules/css-what/lib/commonjs/stringify.d.ts1671133007051455900 0
 62/root/PoltierPortfolio/node_modules/es-abstract/5/ToInteger.js1671133007871455900 0
-48/root/PoltierPortfolio/dist/image1.3dedce53.jpeg1671815430974297500 0
+48/root/PoltierPortfolio/dist/image1.3dedce53.jpeg1671817200074297500 0
 65/root/PoltierPortfolio/node_modules/call-bind/.github/FUNDING.yml1671133006911455900 0
 72/root/PoltierPortfolio/node_modules/es-abstract/2020/Number/leftShift.js1671133007741455900 0
 60/root/PoltierPortfolio/node_modules/es-abstract/5/MakeDay.js1671133007751455900 0
+50/root/PoltierPortfolio/src/fonts/OpenSans-Bold.ttf1296601200000000000 0
 56/root/PoltierPortfolio/node_modules/es-abstract/5/abs.js1671133007111455900 0
 87/root/PoltierPortfolio/node_modules/@parcel/optimizer-htmlnano/lib/HTMLNanoOptimizer.js1671133006621455900 0
 81/root/PoltierPortfolio/node_modules/es-abstract/5/AbstractRelationalComparison.js1671133007151455900 0

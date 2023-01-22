@@ -1,3 +1,24 @@
+@font-face {
+  font-family: Open Sans;
+  src: url("OpenSans-Light.daede0bc.ttf") format("ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Open Sans;
+  src: url("OpenSans-Light.daede0bc.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Open Sans;
+  src: url("OpenSans-Light.daede0bc.ttf") format("ttf");
+  font-weight: 700;
+  font-style: normal;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,7 +27,7 @@
 
 body {
   background: #fff;
-  font-family: Open Sans;
+  font-family: Open Sans, Arial, sans-serif;
   font-size: 16px;
 }
 
@@ -33,7 +54,7 @@ iframe {
 header {
   max-height: 600px;
   background-color: #212123;
-  background-image: url("backgroundheader.24a4a44e.jpeg"), none;
+  background-image: url("backgroundheader.73a60814.avif"), none;
   background-position: center;
   background-repeat: repeat, repeat;
   background-size: auto, auto;
@@ -344,7 +365,7 @@ header .contenedor .active {
 .knowus {
   height: 1000px;
   background-color: #ccc;
-  background-image: url("howwemeet.c2fa9ee2.jpeg");
+  background-image: url("howwemeet.4ba4a3f4.avif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -493,7 +514,7 @@ header .contenedor .active {
 
 .columna-derecha .backpng {
   width: 100%;
-  background-image: url("cloudy background.d9da559c.jpeg");
+  background-image: url("cloudy background.7cac2205.avif");
   background-size: cover;
   justify-content: center;
   align-items: center;
@@ -562,7 +583,7 @@ header .contenedor .active {
   border: 2px solid #cecece;
   border-radius: 5px;
   padding: 15px 20px;
-  font-family: Open Sans;
+  font-family: Open Sans, Arial, sans-serif;
   font-size: 20px;
 }
 
